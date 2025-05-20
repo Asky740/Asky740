@@ -1,1 +1,1 @@
-![TheGame](asky_banner.png)
+![YouJustLostTheGame](asky_github_banner.png)
